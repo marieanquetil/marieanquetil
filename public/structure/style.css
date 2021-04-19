@@ -1,0 +1,6 @@
+body {text-align: center;
+margin:5;}
+
+.navbar {background-color: blue; overflow: hidden;}
+.navbar a {float: left; color : white; padding : 14px 20px;}
+.navbar a:hover {background-color: red;}
